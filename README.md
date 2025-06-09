@@ -1,6 +1,6 @@
 # 📚 LexiLogic – Symbolic Multilingual Document Analyzer
 
-**LexiLogic** is a Streamlit-based application that combines **symbolic reasoning** and **LLMs** (via LangChain) to analyze multilingual PDF documents. It is especially useful for understanding religious, ideological, legal, and cultural texts written in non-English languages such as Arabic.
+**LexiLogic** is a Streamlit-based application that combines **symbolic reasoning** and **LLMs** (via LangChain) to analyze multilingual PDF documents. It is especially useful for understanding religious, ideological, legal, and cultural texts written in non-English languages.
 
 ---
 
